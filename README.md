@@ -1,42 +1,22 @@
-# Project Name
+👋 Soham Datta
 
-Short 2–3 line description
+Java & Spring Boot Developer
+Building scalable backend systems and full-stack applications.
 
-## 🚀 Features
+Java | Spring Boot | React | Kafka | Microservices | SQL | Docker
 
-## 🏗 Architecture
+🚀 Featured Projects
 
-[Architecture Diagram]
+⭐ Agentic Incident Resolution
+Event-driven microservices platform for log ingestion,
+incident detection and AI-powered remediation.
 
-## 🛠 Tech Stack
+📨 Alert Management System
+Full-stack alert processing platform using Outlook,
+Excel configuration, Spring Boot and React.
 
-Backend
-- Java
-- Spring Boot
-- Spring Data JPA
-- Kafka
+🏨 Full Stack Booking Application
+...
 
-Frontend
-- React
-- Vite
-
-Infrastructure
-- Docker
-
-## 🔄 How It Works
-
-1. Log Generator produces events
-2. Kafka receives events
-3. Ingestion service processes logs
-4. Incident Detection identifies anomalies
-5. Resolution service suggests remediation
-
-## 📂 Project Structure
-
-## ⚙️ Running Locally
-
-## 🔌 API Endpoints
-
-## 📸 Screenshots
-
-## 🔮 Future Improvements
+🧠 Problem Solving
+LeetCode activity/stats
