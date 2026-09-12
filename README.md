@@ -8,8 +8,8 @@ Java | Spring Boot | React | Kafka | Microservices | SQL | Docker
 🚀 Featured Projects
 
 ⭐ Agentic Incident Resolution
-Event-driven microservices platform for log ingestion,
-incident detection and AI-powered remediation.
+Event-driven microservices platform using distributed kafka pipeline,
+ analyzes incidents using a locally running LLM, and persists detected incidents for further investigation and automated remediation.
 
 📨 Alert Management System
 Full-stack alert processing platform using Outlook,
